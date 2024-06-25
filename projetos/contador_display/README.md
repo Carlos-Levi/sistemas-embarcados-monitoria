@@ -1,6 +1,10 @@
-# Projeto de Contador com Display de Sete Segmentos
 
+<div align="center">
+Projeto de Contador com Display de Sete Segmentos
+    
 ![Screenshot do Projeto](Contador_Tinkercad.png)
+
+</div>
 
 ## Descrição
 
