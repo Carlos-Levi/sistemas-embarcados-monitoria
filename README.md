@@ -1,8 +1,9 @@
-# 🖥️ Monitoria de Sistemas Embarcados - Repositório de Recursos
+# 🖥️ Monitoria de Sistemas Embarcados 
+<div align="center">
 
 ![Banner de Sistemas Embarcados](https://embarcados.com.br/wp-content/uploads/2021/11/artigo_plataformas-850x510.png.webp)
-
-Bem-vindo ao repositório de recursos da monitoria de Sistemas Embarcados, desenvolvido por [Carlos Levi] para a disciplina de Sistemas Embarcados em 2023. Este repositório foi criado para apoiar os estudantes com materiais didáticos, exemplos de código, projetos práticos e referências úteis.
+</div>
+Bem-vindo ao repositório de recursos da monitoria de Sistemas Embarcados, desenvolvido por Carlos Levi para a disciplina de Sistemas Embarcados em 2023. Este repositório foi criado para apoiar os estudantes com materiais didáticos, exemplos de código, projetos práticos e referências úteis.
 
 ---
 
@@ -26,13 +27,11 @@ O objetivo deste repositório é fornecer materiais de apoio e facilitar o apren
   - [Estudos de Casos](./Unidade_II/Estudos_de_Casos/README.md)
 
 ### **Projetos**
-  - [Projeto 1](./Projetos/contador_display/README.md)
-  - [Projeto 2](./Projetos/Projeto2/README.md)
+  - [Projeto 1](./projetos/contador_display/README.md)
+  - [Projeto 2](./projetos/Projeto2/README.md)
 
 ### **Referências**
-  - [Livros](./Referencias/Livros.md)
-  - [Artigos](./Referencias/Artigos.md)
-  - [Links úteis](./Referencias/Links.md)
+  - [Referências - Artigos, Links e Livros,](./Referencias/Referencias.md)
 
 ---
 
