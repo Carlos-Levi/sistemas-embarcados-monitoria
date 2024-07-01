@@ -1,7 +1,5 @@
 # Hello, World! em Assembly
 
-Projeto desenvolvido como parte da disciplina **Sistemas Embarcados** do curso de Engenharia da Computação. O objetivo é entender conceitos fundamentais da linguagem Assembly e sua aplicação em sistemas embarcados.
-
 ## Objetivos do Projeto
 
 O projeto tem como objetivos principais:
